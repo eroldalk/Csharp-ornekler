@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\bin\Debug\Labirent oyunu.exe.config
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\bin\Debug\Labirent oyunu.exe
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\bin\Debug\Labirent oyunu.pdb
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\obj\Debug\Labirent oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\obj\Debug\Labirent_oyunu.Form1.resources
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\obj\Debug\Labirent_oyunu.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\obj\Debug\Labirent oyunu.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\obj\Debug\Labirent oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\obj\Debug\Labirent oyunu.exe
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\obj\Debug\Labirent oyunu.pdb
+C:\Users\Lenovo\source\repos\Labirent oyunu\Labirent oyunu\obj\Debug\Labirent oyunu.csproj.AssemblyReference.cache
