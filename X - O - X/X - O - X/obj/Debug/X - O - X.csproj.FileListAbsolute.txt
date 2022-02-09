@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\bin\Debug\X - O - X.exe.config
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\bin\Debug\X - O - X.exe
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\bin\Debug\X - O - X.pdb
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\obj\Debug\X - O - X.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\obj\Debug\X - O - X.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\obj\Debug\X___O___X.Form1.resources
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\obj\Debug\X___O___X.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\obj\Debug\X - O - X.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\obj\Debug\X - O - X.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\obj\Debug\X - O - X.exe
+C:\Users\Lenovo\source\repos\X - O - X\X - O - X\obj\Debug\X - O - X.pdb
