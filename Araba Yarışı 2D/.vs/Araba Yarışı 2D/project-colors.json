@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d843882a-ce79-4c4b-9161-380e2a82329b": {
+      "ProjectGuid": "d843882a-ce79-4c4b-9161-380e2a82329b",
+      "DisplayName": "Araba Yarışı 2D",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

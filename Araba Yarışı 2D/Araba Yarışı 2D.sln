@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araba Yarışı 2D", "Araba Yarışı 2D\Araba Yarışı 2D.csproj", "{D843882A-CE79-4C4B-9161-380E2A82329B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D843882A-CE79-4C4B-9161-380E2A82329B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D843882A-CE79-4C4B-9161-380E2A82329B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D843882A-CE79-4C4B-9161-380E2A82329B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D843882A-CE79-4C4B-9161-380E2A82329B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3A8386-33FD-4930-A8B8-B63058A47D67}
+	EndGlobalSection
+EndGlobal

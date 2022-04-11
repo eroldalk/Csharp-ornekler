@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\bin\Debug\Araba Yarışı 2D.exe.config
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\bin\Debug\Araba Yarışı 2D.exe
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\bin\Debug\Araba Yarışı 2D.pdb
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\obj\Debug\Araba Yarışı 2D.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\obj\Debug\Araba Yarışı 2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\obj\Debug\Araba_Yarışı_2D.Form1.resources
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\obj\Debug\Araba_Yarışı_2D.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\obj\Debug\Araba Yarışı 2D.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\obj\Debug\Araba Yarışı 2D.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\obj\Debug\Araba Yarışı 2D.exe
+C:\Users\Lenovo\Desktop\Araba Yarışı 2D\Araba Yarışı 2D\obj\Debug\Araba Yarışı 2D.pdb
