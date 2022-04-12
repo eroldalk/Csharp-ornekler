@@ -64,6 +64,22 @@ namespace Araba_Yarışı_2D
             AracYerine();
             RandomMusicEkle();
         }
-       
+
+        bool SesKontrol = true;
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            if (SesKontrol == true)
+            {
+                SesKontrol = false;
+                axWindowsMediaPlayer1.Ctlcontrols.pause();
+                pictureBox2.Image = Properties.Resources.volumeOff;
+            }
+            else if (SesKontrol == false)
+            {
+                SesKontrol = true;
+                axWindowsMediaPlayer1.Ctlcontrols.play();
+                pictureBox2.Image = Properties.Resources.volumeON;
+            }
+        }
     }
 }

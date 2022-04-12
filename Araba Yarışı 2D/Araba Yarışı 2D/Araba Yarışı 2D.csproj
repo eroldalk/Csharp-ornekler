@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -97,6 +98,27 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volumeOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volumeON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car3.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
