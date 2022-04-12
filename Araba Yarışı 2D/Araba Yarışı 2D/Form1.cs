@@ -17,6 +17,7 @@ namespace Araba_Yarışı_2D
             InitializeComponent();
         }
         int SeritSayisi = 1;
+        Random R = new Random();
 
         private void AracYerine()
         {
@@ -36,12 +37,12 @@ namespace Araba_Yarışı_2D
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Right)
+            if (e.KeyCode == Keys.Right || e.KeyCode == Keys.D)
             {
                 if (SeritSayisi < 2) 
                     SeritSayisi++;
             }
-            else if (e.KeyCode == Keys.Left)
+            else if (e.KeyCode == Keys.Left || e.KeyCode == Keys.A)
             {
                 if(SeritSayisi > 0)
                     SeritSayisi--;
@@ -49,9 +50,19 @@ namespace Araba_Yarışı_2D
             AracYerine();
         }
 
+        private void RandomMusicEkle()
+        {
+            int MuzikDeger = R.Next(1, 4);
+
+            axWindowsMediaPlayer1.URL = @"music/track" + MuzikDeger.ToString() + ".mp3";
+            axWindowsMediaPlayer1.Ctlcontrols.play();
+
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             AracYerine();
+            RandomMusicEkle();
         }
        
     }

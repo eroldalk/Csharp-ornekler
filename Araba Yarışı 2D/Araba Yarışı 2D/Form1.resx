@@ -121,7 +121,7 @@
   <data name="RedCar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAANoAAAGhCAYAAAAHj6ptAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1
-        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxEAAAsRAX9kX5EAAP+WSURBVHhe7H11uFXV+vXe++ze
+        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxAAAAsQAa0jvXUAAP+WSURBVHhe7H11uFXV+vXe++ze
         +3R30t0NokhKd3cjISAlUoIiiIpKHgQEBekUpbu7uw/d3e83xlxnHY5c/F0vF9Hvee4f41lrr71yznfM
         N+Y75zQ8fPjwb8WjR48Mt2/dMpxPOmu4d++e4cGDB9rxh48UHuL/W9euG65fumR4yP/0/3kc1507m2Q4
         ffSo4fCO7YZ9a9YY7t2+bbgLnDt50nDh2DHDpRPHce5DXH/RcO74McPZwwfV/sOHDwyXkpIM50+cNCQd
@@ -2983,6 +2983,17 @@
         RaPRbKvu7MBntwvSExOQ9XhgF8njngpTPshJUQy2JDQzWdhn7OCIa6zHnhz9XTQpjK/gTVM0aJm/XN74
         BOXEW6iEwvCND4MhSEgUDBEJidD0BaHuC4CGNczHZSi+S4C2roCOwaarX6FuBqHZ+wI+xf550XT4Dqu4
         NYQ9Sp3+AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="axWindowsMediaPlayer1.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAtwAAAAIB
+        AAAAAQAAAAAAAAAAAAAAAKIAAAABAwAACAAAAAAABQAAAAAAAADwPwMAAAAAAAUAAAAAAAAAAAAIAAIA
+        AAAAAAMAAQAAAAsA//8DAAAAAAALAP//CAACAAAAAAADADIAAAALAAAACAAKAAAAZgB1AGwAbAAAAAsA
+        AAALAAAACwD//wsA//8LAAAACAACAAAAAAAIAAIAAAAAAAgAAgAAAAAACAACAAAAAAALAAAAwAcAAGEC
+        AAAL
 </value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
