@@ -9,19 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-/*
-  ===> PisqoChannel C#,PHP,JAVA ====> https://www.youtube.com/channel/UCdyEFVSX983Mi9ObrwUewPg
 
-    Aklında soru kalmamalı arkadaş, kumara gerek yok. 
-    Şüphe duyduğun her şeyi bırak, gelişmen gereken
-    bir hayat var. Zaman kaybedilmemeli; yaşanması 
-    gerekenler yaşandı. Şimde işe koyulma vakti .
-    x.x
-    -Çizgi Hayat
-    #NurullahGüç
-    07.10.2019 22:15
-    ===> PisqoChannel C#,PHP,JAVA ====> https://www.youtube.com/channel/UCdyEFVSX983Mi9ObrwUewPg 
-*/
 
 namespace Traffic_Racer_2D
 {
@@ -210,11 +198,7 @@ namespace Traffic_Racer_2D
 
                 }
 
- /*
-    ===> PisqoChannel C#,PHP,JAVA ====> https://www.youtube.com/channel/UCdyEFVSX983Mi9ObrwUewPg
-    #NurullahGüç
-    ===> PisqoChannel C#,PHP,JAVA ====> https://www.youtube.com/channel/UCdyEFVSX983Mi9ObrwUewPg 
-*/
+ 
 
                 //Kaza Durumu 
 
