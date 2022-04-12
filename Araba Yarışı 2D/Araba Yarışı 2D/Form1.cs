@@ -81,5 +81,30 @@ namespace Araba_Yarışı_2D
                 pictureBox2.Image = Properties.Resources.volumeON;
             }
         }
+
+        bool SeritHareket = false;
+
+        private void timerSerit_Tick(object sender, EventArgs e)
+        {
+
+            if(SeritHareket == false)
+            {
+                for (int i = 1; i < 6; i++)
+                {
+                    this.Controls.Find("labelSolSerit" + i.ToString(), true)[0].Top -= 25;
+                    this.Controls.Find("labelSagSerit" + i.ToString(), true)[0].Top -= 25;
+                    SeritHareket = true;
+                }
+            }
+            else
+            {
+                for (int i = 1; i < 6; i++)
+                {
+                    this.Controls.Find("labelSolSerit" + i.ToString(), true)[0].Top += 25;
+                    this.Controls.Find("labelSagSerit" + i.ToString(), true)[0].Top += 25;
+                    SeritHareket = false;
+                }
+            }
+        }
     }
 }
